@@ -5,7 +5,6 @@ require_once "../../config.php";
 require_once "../../db.php";
 require_once "../../security.php";
 
-// Connect DB
 $conn = db_connect();
 
 // Validate API client
