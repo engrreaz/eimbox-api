@@ -2,7 +2,7 @@
 // call_response.php
 // Usage: php call_response.php
 
-$apiUrl = "http://localhost/eimbox-dashboard/api/pay/response/"; // <-- বদলান
+$apiUrl = "https/api.eimbox.com/pay/response/"; // <-- বদলান
 $apiKey = "SFSFS89SDF";          // <-- আপনার API key
 $apiSecret = "SFSAFSD98798";     // <-- আপনার API secret
 
