@@ -2,7 +2,7 @@
 // call_request.php
 // Usage: php call_request.php
 
-$apiUrl = "https/api.eimbox.com/pay/request/"; // <-- বদলান
+$apiUrl = "https://api.eimbox.com/pay/request/"; // <-- বদলান
 $apiKey = "SFSFS89SDF";          // <-- আপনার API key
 $apiSecret = "SFSAFSD98798";     // <-- আপনার API secret
 
