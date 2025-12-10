@@ -7,7 +7,7 @@ $apiKey = "SFSFS89SDF";          // <-- আপনার API key
 $apiSecret = "SFSAFSD98798";     // <-- আপনার API secret
 
 $postData = [
-    'student_id' => '1031871630',
+    'student_id' => '1031871666',
     'amount' => '521',
     'payer_id' => '01919629672',
     'trans_id' => 'TXN889JU7X',
