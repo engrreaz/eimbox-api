@@ -43,7 +43,7 @@ function validateClient()
 
     // If allowed_id is not NULL, validate IP
     if (!empty($row['allowed_id']) && $row['allowed_id'] !== $clientIP) {
-        return ['status' => false, 'msg' => 'IP not allowed'];
+        // return ['status' => false, 'msg' => 'IP not allowed'];
     }
 
     // SUCCESS — return sccode as well

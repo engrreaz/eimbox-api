@@ -1,6 +1,4 @@
 <?php
-
-
 define('DB_HOST', 'localhost');
 define('DB_USER', 'eimbox_eimbox');
 define('DB_PASS', '@Riaz2015');
